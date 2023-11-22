@@ -1,0 +1,1632 @@
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"error","message":"This is an error message test","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"sibowu@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"isPasswordCorrect":false,"level":"info","message":"Password validation result","service":"user-service"}
+{"email":"sibowu@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"yingqi@example.com","level":"info","message":"Register endpoint hit","password":"qwe","service":"user-service","username":"yingqi"}
+{"hashedPassword":"$2a$12$uV91QaEs92IiN5UOpFLpeebmr.qU255AcUtOYXdle8gHY5wDIf4Oi","level":"info","message":"Password hashed","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqi@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"isPasswordCorrect":false,"level":"info","message":"Password validation result","service":"user-service"}
+{"email":"yingqi@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqi@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"yingqi@example.com","error":"saltRounds is not defined","level":"error","message":"Login error","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqi@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"yingqi@example.com","error":"saltRounds is not defined","level":"error","message":"Login error","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqi@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"isPasswordCorrect":false,"level":"info","message":"Password validation result","service":"user-service"}
+{"email":"yingqi@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqi@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"isPasswordCorrect":false,"level":"info","message":"Password validation result","service":"user-service"}
+{"email":"yingqi@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqi@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"isPasswordCorrect":false,"level":"info","message":"Password validation result","service":"user-service"}
+{"email":"yingqi@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"info","message":"Register endpoint hit","password":"zyq","service":"user-service","username":"yingqizhang"}
+{"hashedPassword":"$2a$12$p82dLreWj7eJu1tjMFWb6uqYYv7FqorpgcR7CemjxsDjDm41tixVO","level":"info","message":"Password hashed","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"isPasswordCorrect":false,"level":"info","message":"Password validation result","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"isPasswordCorrect":false,"level":"info","message":"Password validation result","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"yingqizhang@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"level":"info","message":"Stored hash","service":"user-service","storedHash":"$2a$08$ni6cypMWTjf2psrJ143lgOnA6p9tL6cwjyv.XfQBaEjlaXF3MJ3XC"}
+{"level":"info","message":"Password comparison","providedPassword":"zyq","service":"user-service","storedHash":"$2a$08$ni6cypMWTjf2psrJ143lgOnA6p9tL6cwjyv.XfQBaEjlaXF3MJ3XC"}
+{"email":"yingqizhang@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"meta@example.com","level":"info","message":"Register endpoint hit","password":"pengge","service":"user-service","username":"meta"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"meta@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"meta@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"meta@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"meta@example.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Register endpoint hit","password":"apple","service":"user-service","username":"apple"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"Register endpoint hit","password":"paipaizhang","service":"user-service","username":"paipaizhang"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"info","message":"Register endpoint hit","password":"32","service":"user-service","username":"rickywsb"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"info","message":"POST /api/register","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"mayzhangyq@hotmail.com","level":"info","message":"Register endpoint hit","password":"123","service":"user-service","username":"chesswu"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"mayzhangyq@hotmail.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"mayzhangyq@hotmail.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"mayzhangyq@hotmail.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6a35182e35b14f8af73d","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6a35182e35b14f8af73d","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6a35182e35b14f8af73d","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6a35182e35b14f8af73d","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d8836182e35b14f8af74a","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d8835182e35b14f8af748","service":"user-service"}
+{"level":"info","message":"PATCH /api/courses/654d6ab8182e35b14f8af741","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"PATCH /api/courses/654d6ab8182e35b14f8af741","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6ab8182e35b14f8af741","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d8cb6098240d287b771ef","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6a35182e35b14f8af73d","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"PATCH /api/courses/654d6925182e35b14f8af738","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/undefined","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6925182e35b14f8af738","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6925182e35b14f8af738","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6925182e35b14f8af738","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6925182e35b14f8af738","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /courses/654dbac62ed776a4d7aac47f/modules","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654db9772ed776a4d7aac473","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6925182e35b14f8af738","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654d6a4e182e35b14f8af73f","service":"user-service"}
+{"level":"info","message":"PATCH /api/courses/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de26d31d9c2df2d0aa1d8","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de4b231d9c2df2d0aa1f1","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654dc1dbf4832491bace6038","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654dc1dbf4832491bace6038","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de26d31d9c2df2d0aa1d8","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de26e31d9c2df2d0aa1da","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de3bc31d9c2df2d0aa1e4","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de4b231d9c2df2d0aa1f1","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de49b31d9c2df2d0aa1ea","service":"user-service"}
+{"level":"info","message":"PATCH /api/modules/654de26e31d9c2df2d0aa1de","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de26e31d9c2df2d0aa1de","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654dbdae2ed776a4d7aac494","service":"user-service"}
+{"level":"info","message":"PATCH /api/modules/654dbdf12ed776a4d7aac498","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654dbdf12ed776a4d7aac498","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654ded8aed29ed994de31221","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654debd1ed29ed994de3121f","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"PATCH /api/user/654d5f12de3f586e7007335f/role","service":"user-service"}
+{"level":"info","message":"PATCH /api/user/654d5f12de3f586e7007335f/role","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwiaWF0IjoxNjk5NjQ3MDkxLCJleHAiOjE2OTk2NTA2OTF9.VhJDOTZSF7OAVvh86LoJr_hQzGamZGiR1TcMI2QLMZc"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwiaWF0IjoxNjk5NjQ3MzI0LCJleHAiOjE2OTk2NTA5MjR9.zG51HxaDc7FJ7i7DWJb1xqEMxhwWJqDTtWNGY2SLapQ"}
+{"level":"info","message":"PATCH /api/user/654d5f12de3f586e7007335f/role","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwiaWF0IjoxNjk5NjUwODYwLCJleHAiOjE2OTk2NTQ0NjB9.uRImew3m4Y1_Xwx7wXA0CFbq-9DBoIDXSCpiOWOop1c"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwiaWF0IjoxNjk5NjUxMDczLCJleHAiOjE2OTk2NTQ2NzN9.7mz86Q8nTik_CvZ78YlzcPHoRwTH0ywIowmxGPbSM9U"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjk5NjUxNDA5LCJleHAiOjE2OTk2NTUwMDl9.reLj9yRuC9SNU1v-3GywYeJ7FvQjSvuZi9_HRI-1RBU"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"mayzhangyq@hotmail.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"mayzhangyq@hotmail.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"mayzhangyq@hotmail.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1heXpoYW5neXFAaG90bWFpbC5jb20iLCJpZCI6IjY1NGQ1ZjYxZGUzZjU4NmU3MDA3MzM2MyIsInJvbGUiOiJzdHVkZW50IiwiaWF0IjoxNjk5NjUxNDY5LCJleHAiOjE2OTk2NTUwNjl9.LbnKL7I9Px11AqALMcLX2V2lqCYXxt_mpvMHiEmM69w"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjk5NjUyMDc2LCJleHAiOjE2OTk2NTU2NzZ9.KCyNjItGK8RJUfhlxIt6rfzI7b70DlgCjx9jmqbvdKc"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"PATCH /api/courses/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654dbac62ed776a4d7aac47f","service":"user-service"}
+{"level":"info","message":"DELETE /api/courses/654e9f5f6b9d0d94a8f82730","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654ea3bd6b9d0d94a8f8274c","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"paipaizhang@example.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhaXBhaXpoYW5nQGV4YW1wbGUuY29tIiwiaWQiOiI2NTRkNThiZGY5M2I4Y2RhNWRmODNhNjEiLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTY5OTczNTI2MiwiZXhwIjoxNjk5NzM4ODYyfQ.mEy9U7tiVJChu2q8wyqNVDFcnf504Hrn4h6TROymETg"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/654de26e31d9c2df2d0aa1dc","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin","level":"error","message":"User not found","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjk5ODE4NDEzLCJleHAiOjE2OTk4MjIwMTN9.pqRV7iwwuH1zmkkf-1rfO5rJFzk_aJB5U6oUp6WBXVM"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"paipaizhang@paipaizhang.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"paipaizhang@paipaizhang.com","level":"error","message":"User not found","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFwcGxlQGV4YW1wbGUuY29tIiwiaWQiOiI2NTRkNTI1MjQwMTE2YWI5MDViODk1NWQiLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTY5OTgxODU0NywiZXhwIjoxNjk5ODIyMTQ3fQ.JzGquVwKxaO_Y5tj8YsxBPvy3EBK00AknUbbS_Vx3lw"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/65512bf405d6f8df21589a35","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjk5ODE4Nzc3LCJleHAiOjE2OTk4MjIzNzd9.kWPkIho9Wl3rxzsv_SUWuAQqrR60UCk8Dd2lpgGaJzg"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjk5ODI1NzIxLCJleHAiOjE2OTk4MjkzMjF9.cQ80HNJM3B0O5mkqARJbFR0-yKmgwMi_-LL3yyTX-EU"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"DELETE /api/modules/6551499905d6f8df21589a89","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"apple@example.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFwcGxlQGV4YW1wbGUuY29tIiwiaWQiOiI2NTRkNTI1MjQwMTE2YWI5MDViODk1NWQiLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTY5OTgyNjA5MCwiZXhwIjoxNjk5ODI5NjkwfQ.TSapw6kd1uq7qv32XYVIUBUQSUk2rhYT2im_L_R3N_A"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjk5ODYxMzM1LCJleHAiOjE2OTk4NjQ5MzV9.FqmkqC49fbQsesdKMddG8Is0c3yLOql1ntDaFxOhBcM"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"careerdevsfsv@northeastern.edu","level":"info","message":"Register endpoint hit","password":"123","role":"student","service":"user-service","username":"mayzhangy"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Login error","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"email":"admin@admin.com","error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Login error","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeastern.edu","level":"info","message":"Register endpoint hit","password":"2222","role":"student","service":"user-service","username":"aaa"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeastern.edu","level":"info","message":"Register endpoint hit","password":"2222","role":"student","service":"user-service","username":"aaa"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeastern.edu","level":"info","message":"Register endpoint hit","password":"2222","role":"student","service":"user-service","username":"aaa"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeastern.edu","level":"info","message":"Register endpoint hit","password":"2222","role":"student","service":"user-service","username":"aaa"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeastern.edu","level":"info","message":"Register endpoint hit","password":"2222","role":"student","service":"user-service","username":"aaa"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeastern.edu","level":"info","message":"Register endpoint hit","password":"2222","role":"student","service":"user-service","username":"aaa"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Error registering new user","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeastern.edu","level":"info","message":"Register endpoint hit","password":"2222","role":"student","service":"user-service","username":"aaa"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Error registering new user","service":"user-service"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Error registering new user","service":"user-service"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Error registering new user","service":"user-service"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Error registering new user","service":"user-service"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Error registering new user","service":"user-service"}
+{"error":"Operation `users.findOne()` buffering timed out after 10000ms","level":"error","message":"Error registering new user","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMDE5ODY4LCJleHAiOjE3MDAwMjM0Njh9.cFnmRNTksD9R1hPVDaG-YfD16jqkRKXouZP5afntRNQ"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMDIwNTc3LCJleHAiOjE3MDAwMjQxNzd9.WbXLpeOORR0Jh2FnZQlfzijnweHF9ZyJIFCysNCOg2s"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjYwODA0LCJleHAiOjE3MDAyNjQ0MDR9.9SeU0WeVNSifUSS3_JEyAupk4kbxkIS2nZwiJ_XFdQA"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=null","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=null","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=null","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjY3MTU4LCJleHAiOjE3MDAyNzA3NTh9.LXZxCyoqi82EphrwDkJmHhEzK9b4xSD5bIEQmaDaDoA"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjY3OTcwLCJleHAiOjE3MDAyNzE1NzB9.mtigduMKLq5SPzypGfU2jr_ShyoQ9uz8OT1FW2dpWQ8"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /favicon.ico","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjY4MTgxLCJleHAiOjE3MDAyNzE3ODF9.caLqO5SpLtSbqR6XHGjCEbcKMHEpGNGIrKAiKLqvWHI"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjY4NjkyLCJleHAiOjE3MDAyNzIyOTJ9.0kzfhbe0Ijme4gxVFfLhjn4cioCk5-EANUNtR0WRwUc"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjY5NjUyLCJleHAiOjE3MDAyNzMyNTJ9.SMO_UoMI4CgS-YdkcQ9Slnj5JAWAkPo495G5DPVBcYA"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjY5NzQxLCJleHAiOjE3MDAyNzMzNDF9.HH2ZuTwriXDghW6DnNrFUvCA8u-tFIRGS72bLKwX-W0"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=undefined","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjcwMDY0LCJleHAiOjE3MDAyNzM2NjR9.rav_FzqK2Sgje-IwbUamjrxMOJz26k6GCC255MmPSlE"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjcwMTAxLCJleHAiOjE3MDAyNzM3MDF9.39QvKKc-r4GxPAuENGNsm26tFftA-nvUSN0U-xmboD4"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjcwNDU2LCJleHAiOjE3MDAyNzQwNTZ9.ZgRjhYf8ZsVwfBJntC4OIQMjfhI_LwnL7iGlOJA09RI"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjcxMjU5LCJleHAiOjE3MDAyNzQ4NTl9.RTSXpYLdBq03MN8nd35JNWrT68oUPB3gUKWd-nr0LsA"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjcxNDY0LCJleHAiOjE3MDAyNzUwNjR9.QycFukziO8vOG3J_ucv-kOW5XWO2eubtpijen840G6o"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile?userId=654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/65544172a5b4d5b1cf9627b4","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjk2OTIwLCJleHAiOjE3MDAzMDA1MjB9.9AIS6uq1VeeftGzs6jr3ARif4mdn41cNrSXvFcNCLfA"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjk3MTY3LCJleHAiOjE3MDAzMDA3Njd9.sjXwwhwk7fZ24ACgSQu1mgsHH36BA85x2wsMzWD_0oY"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjk3MzYwLCJleHAiOjE3MDAzMDA5NjB9.fdBjCTn1dXtuFdASSJ3EaEia6lS3I8hWnQ5-qK3KNCs"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/auth/register","service":"user-service"}
+{"email":"wu.sib@northeaste333rn.edu","level":"info","message":"Register endpoint hit","password":"123","role":"student","service":"user-service","username":"caicai"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"wu.sib@northeaste333rn.edu","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"wu.sib@northeaste333rn.edu","level":"info","message":"Password matches","service":"user-service"}
+{"email":"wu.sib@northeaste333rn.edu","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ind1LnNpYkBub3J0aGVhc3RlMzMzcm4uZWR1IiwiaWQiOiI2NTU4N2FjZGZmOWIwYjYyNmM5ZmFiMjEiLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTcwMDI5NzQyOSwiZXhwIjoxNzAwMzAxMDI5fQ.KxVWQn87r9PbUiouqenCVzIWkBMr9i6wgUWeSFQKyZM"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/profile/65587acdff9b0b626c9fab21","service":"user-service"}
+{"level":"info","message":"GET /api/profile/65587acdff9b0b626c9fab21","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/65587acdff9b0b626c9fab21","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjk3NzEwLCJleHAiOjE3MDAzMDEzMTB9.bbf3RdRaaqDWTQDVLMF8aBoHL5RU8HmA-cH6MbHjU1w"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjk3ODg4LCJleHAiOjE3MDAzMDE0ODh9.9KdfufQAuuwlSFeEomEhacDWKq_FBP74b5GtpcvF0DA"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwMjk3OTY2LCJleHAiOjE3MDAzMDE1NjZ9.Wasvfd03e_UFBnBc63jernHzVJRjdwUlCDjDzlj9NNE"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwNTE5OTQzLCJleHAiOjE3MDA1MjM1NDN9.pZuSAVq5aV2wqZL_40VVdQtb3iVqZ9ygo2XUZ26-DGk"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /move","service":"user-service"}
+{"level":"info","message":"GET /move","service":"user-service"}
+{"level":"info","message":"POST /move","service":"user-service"}
+{"level":"info","message":"POST /move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"Hello world","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"info","message":"Server is running on port 5001","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"POST /api/auth/login","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Login endpoint hit","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"Password matches","service":"user-service"}
+{"email":"admin@admin.com","level":"info","message":"JWT token generated","service":"user-service","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjU0ZTg5MWNkYWM5YmVjNjZkZTRjZjgzIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzAwNjE5MTY3LCJleHAiOjE3MDA2MjI3Njd9.4chShyjzbfD2GKzCKF10YOYx7UsmqC6BznggEH_oPUM"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /api/courses","service":"user-service"}
+{"level":"info","message":"PATCH /api/courses/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"GET /api/modules/course/654dc1b2f4832491bace6032","service":"user-service"}
+{"level":"info","message":"POST /api/modules","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"POST /chess/move","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"PUT /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/profile/654e891cdac9bec66de4cf83","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
+{"level":"info","message":"GET /api/courses","service":"user-service"}
