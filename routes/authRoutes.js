@@ -16,7 +16,7 @@ router.post('/register', async (req, res) => {
 
   try {
     // 获取用户输入
-    const { username, email, password } = req.body;
+    const { username, email, password, phoneNumber } = req.body;
 
     // 确保用户不存在
     const existingUser = await User.findOne({ email });
@@ -28,7 +28,8 @@ router.post('/register', async (req, res) => {
     const newUser = new User({
       username,
       email,
-      password, // 直接存储明文密码
+      password, 
+      phoneNumber,
     });
 
     // 保存用户

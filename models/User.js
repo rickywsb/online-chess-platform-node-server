@@ -9,11 +9,15 @@ const userSchema = new Schema({
   bio: { type: String },
   profilePicture: { type: String },
   dateOfBirth: { type: Date },
+  phoneNumber: { type: String }, // 敏感信息，应当适当保护
   purchasedCourses: [{ 
     type: Schema.Types.ObjectId, 
-    ref: 'Course' // Link to the Course model
-  }]
-  // Add other fields as needed
+    ref: 'Course' // 学生购买的课程
+  }],
+  teachingCourses: [{ 
+    type: Schema.Types.ObjectId, 
+    ref: 'Course' // 教师教授的课程
+  }],
 });
 
 const User = mongoose.model('User', userSchema);
