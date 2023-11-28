@@ -1,5 +1,7 @@
 import express from 'express';
 import Course from '../models/Course.js';
+import User from '../models/User.js';
+import authenticateToken from '../middlewares/authenticateToken.js'; // 引入认证中间件
 
 const router = express.Router();
 
@@ -67,6 +69,30 @@ router.delete('/:id', getCourse, async (req, res) => {
     }
   });
 
+  router.post('/:courseId/enroll', authenticateToken, async (req, res) => {
+    const { courseId } = req.params;
+    const studentId = req.user._id; // 从认证中间件获取用户ID
+  
+    try {
+      // 将学生添加到课程的已注册学生列表中
+      await Course.findByIdAndUpdate(courseId, {
+        $addToSet: { enrolledStudents: studentId }
+      });
+  
+      // 将课程添加到用户的已购买课程列表中
+      await User.findByIdAndUpdate(studentId, {
+        $addToSet: { purchasedCourses: courseId }
+      });
+  
+      res.status(200).send({ message: 'Enrolled successfully' });
+    } catch (error) {
+      console.error('Error enrolling in course:', error);
+      res.status(500).send({ message: 'Error enrolling in course' });
+    }
+  });
+  
+
+
 // Middleware to get course by ID
 async function getCourse(req, res, next) {
   let course;
@@ -82,5 +108,7 @@ async function getCourse(req, res, next) {
   res.course = course;
   next();
 }
+
+
 
 export default router;

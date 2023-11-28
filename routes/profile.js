@@ -1,6 +1,6 @@
 import express from 'express';
 import User from '../models/User.js';
-import authMiddleware from '../authMiddleware.js'; // 确保你已经创建了这个中间件
+import authMiddleware from '../authMiddleware.js';
 
 const profileRouter = express.Router();
 
@@ -10,7 +10,10 @@ profileRouter.use(authMiddleware);
 // 获取当前登录用户的个人资料
 profileRouter.get('/me', async (req, res) => {
   try {
-    const user = await User.findById(req.user.id).select('-password');
+    const user = await User.findById(req.user.id)
+      .select('-password')
+      .populate('purchasedCourses') // 填充 purchasedCourses 字段
+      .populate('teachingCourses'); // 填充 teachingCourses 字段
     if (!user) {
       return res.status(404).json({ message: 'User not found' });
     }
@@ -23,7 +26,10 @@ profileRouter.get('/me', async (req, res) => {
 // 获取特定用户的个人资料
 profileRouter.get('/:id', async (req, res) => {
   try {
-    const user = await User.findById(req.params.id).select('-password');
+    const user = await User.findById(req.params.id)
+      .select('-password')
+      .populate('purchasedCourses') // 填充 purchasedCourses 字段
+      .populate('teachingCourses'); // 填充 teachingCourses 字段
     if (!user) {
       return res.status(404).json({ message: 'User not found' });
     }
@@ -38,7 +44,6 @@ profileRouter.get('/:id', async (req, res) => {
       profilePicture: user.profilePicture,
       role: user.role,
       courses: user.role === 'instructor' ? user.teachingCourses : user.purchasedCourses,
-      // 只有用户本人或管理员可以看到敏感信息
       email: isSelf ? user.email : undefined,
       phoneNumber: isSelf ? user.phoneNumber : undefined,
     };
@@ -61,7 +66,10 @@ profileRouter.put('/me', async (req, res) => {
     if (bio !== undefined) updateData.bio = bio;
     if (phoneNumber !== undefined) updateData.phoneNumber = phoneNumber;
 
-    const updatedUser = await User.findByIdAndUpdate(userId, updateData, { new: true }).select('-password');
+    const updatedUser = await User.findByIdAndUpdate(userId, updateData, { new: true })
+      .select('-password')
+      .populate('purchasedCourses') // 填充 purchasedCourses 字段
+      .populate('teachingCourses'); // 填充 teachingCourses 字段
     if (!updatedUser) {
       return res.status(404).json({ message: 'User not found' });
     }
@@ -72,6 +80,5 @@ profileRouter.put('/me', async (req, res) => {
     res.status(500).json({ message: 'Error updating user' });
   }
 });
-
 
 export default profileRouter;

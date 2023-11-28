@@ -6,7 +6,7 @@ const authenticateToken = async (req, res, next) => {
     const token = req.headers.authorization.split(" ")[1];
     console.log("Received token:", token); // Add this line
 
-    const decodedData = jwt.verify(token, 'yourverylongrandomstringthatishardtoguess');
+    const decodedData = jwt.verify(token, 'yourSecretKey');
 
     const user = await User.findById(decodedData.id);
     if (!user) {
