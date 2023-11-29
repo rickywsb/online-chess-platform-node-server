@@ -30,6 +30,15 @@ router.patch('/user/:userId/role', isAdminMiddleware, async (req, res) => {
     }
   });
 
+  // 获取所有用户的路由
+router.get('/users', isAdminMiddleware, async (req, res) => {
+  try {
+      const users = await User.find({}).select('-password'); // 获取所有用户，但不包括密码字段
+      res.json(users);
+  } catch (error) {
+      res.status(500).json({ message: 'Error fetching users', error: error.message });
+  }
+});
 
 //   // 示例：只有学生可以访问的路由
 // router.get('/some-student-specific-route', isStudentMiddleware, (req, res) => {

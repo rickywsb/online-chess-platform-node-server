@@ -4,10 +4,13 @@ import User from '../models/User.js';
 
 const isAdminMiddleware = async (req, res, next) => {
   try {
+    if (!req.headers.authorization) {
+      return res.status(401).json({ message: 'No authorization token provided' });
+    }
     const token = req.headers.authorization.split(" ")[1];
     console.log('Extracted Token:', token); // 打印提取的令牌
 
-    const decodedData = jwt.verify(token, 'yourverylongrandomstringthatishardtoguess');
+    const decodedData = jwt.verify(token, 'yourSecretKey');
     console.log('Decoded Data:', decodedData); // 打印解码后的数据
 
 
