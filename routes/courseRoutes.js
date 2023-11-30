@@ -91,6 +91,22 @@ router.delete('/:id', getCourse, async (req, res) => {
     }
   });
   
+  // 获取用户已注册的课程
+router.get('/user/:userId/enrolled', authenticateToken, async (req, res) => {
+  const { userId } = req.params;
+
+  try {
+    // 假设用户模型中有一个字段叫做 'enrolledCourses' 存储用户注册的课程ID
+    const user = await User.findById(userId).populate('purchasedCourses');
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    res.json(user.purchasedCourses);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
 
 
 // Middleware to get course by ID
