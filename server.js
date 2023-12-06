@@ -13,7 +13,7 @@ import { dirname, join } from 'path';
 import courseRoutes from './routes/courseRoutes.js';
 import moduleRouter from './routes/moduleRoutes.js'; // 确保路径正确
 import profileRouter from './routes/profile.js'; // 确保路径正确
-import chessRoutes from './routes/chessRoutes.js';
+// import chessRoutes from './routes/chessRoutes.js';
 import followRoutes from './routes/follow.js'; // Adjust the path as necessary
 
 const app = express();
@@ -71,7 +71,7 @@ app.use('/api/courses', courseRoutes);
 app.use('/api/modules', moduleRouter);
 app.use('/api', usersRouter);
 app.use('/api/profile', profileRouter);
-app.use('/chess', chessRoutes);
+// app.use('/chess', chessRoutes);
 app.use('/api', followRoutes); // Adjust the path as necessary
 
 // Set port
