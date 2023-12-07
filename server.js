@@ -15,7 +15,7 @@ import moduleRouter from './routes/moduleRoutes.js'; // 确保路径正确
 import profileRouter from './routes/profile.js'; // 确保路径正确
 // import chessRoutes from './routes/chessRoutes.js';
 import followRoutes from './routes/follow.js'; // Adjust the path as necessary
-
+import commentRoutes from './routes/comment.js'; // 导入 comment 路由
 const app = express();
 app.use(express.json());
 dotenv.config();
@@ -73,6 +73,7 @@ app.use('/api', usersRouter);
 app.use('/api/profile', profileRouter);
 // app.use('/chess', chessRoutes);
 app.use('/api', followRoutes); // Adjust the path as necessary
+app.use('/api', commentRoutes);
 
 // Set port
 const PORT = process.env.PORT || 5001;
