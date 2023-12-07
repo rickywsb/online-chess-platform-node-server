@@ -125,6 +125,21 @@ async function getCourse(req, res, next) {
   next();
 }
 
+// 获取特定课程的已注册学生
+router.get('/:id/enrolled-students', authenticateToken, async (req, res) => {
+  const { id } = req.params;
+
+  try {
+    const course = await Course.findById(id).populate('enrolledStudents', 'username');
+    if (!course) {
+      return res.status(404).json({ message: 'Course not found' });
+    }
+
+    res.json(course.enrolledStudents);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
 
 
 export default router;
