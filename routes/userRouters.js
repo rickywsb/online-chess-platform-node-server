@@ -40,6 +40,21 @@ router.get('/users', isAdminMiddleware, async (req, res) => {
   }
 });
 
+// Endpoint to get user rank
+router.get('/rank/:id', async (req, res) => {
+  try {
+    const user = await User.findById(req.params.id);
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    const rank = await User.countDocuments({ registrationDate: { $lte: user.registrationDate } });
+    res.json({ rank });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
+
 //   // 示例：只有学生可以访问的路由
 // router.get('/some-student-specific-route', isStudentMiddleware, (req, res) => {
 //     // 处理学生的请求

@@ -18,6 +18,8 @@ const userSchema = new Schema({
     type: Schema.Types.ObjectId, 
     ref: 'Course' // 教师教授的课程
   }],
+  registrationDate: { type: Date, default: Date.now } // Add this field
+
 });
 
 const User = mongoose.model('User', userSchema);
