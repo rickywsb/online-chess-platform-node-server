@@ -18,7 +18,12 @@ const userSchema = new Schema({
     type: Schema.Types.ObjectId, 
     ref: 'Course' // 教师教授的课程
   }],
-  registrationDate: { type: Date, default: Date.now } // Add this field
+  registrationDate: { type: Date, default: Date.now }, // Add this field
+  chessModel: { type: String },  // 用户个性化的 AI 模型路径或ID
+  gameHistory: [{ 
+    type: Schema.Types.ObjectId, 
+    ref: 'Game'  // 用户的对局历史
+  }]
 
 });
 

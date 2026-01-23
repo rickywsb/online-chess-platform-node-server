@@ -1,26 +1,44 @@
-// // routes/chessRoutes.js
-// import express from 'express';
-// import chessServer from '../stockfish/chessServer.js';
+import express from 'express';
+import aiService from '../services/aiService.js';
 
-// const router = express.Router();
+const router = express.Router();
 
-// router.post('/move', async (req, res) => {
-//     const { fen } = req.body;
-//     if (!fen) {
-//         return res.status(400).send('FEN string is required');
-//     }
+// AI service health check
+router.get('/ai/health', async (req, res) => {
+  try {
+    const health = await aiService.healthCheck();
+    res.json(health);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-//     try {
-//         const bestMove = await chessServer.getBestMove(fen);
-//         if (bestMove) {
-//             res.json({ bestMove });
-//         } else {
-//             res.status(500).send('Error calculating best move');
-//         }
-//     } catch (error) {
-//         console.error('Error in /move route:', error);
-//         res.status(500).send('Internal server error');
-//     }
-// });
+// Analyze chess position
+router.post('/ai/analyze', async (req, res) => {
+  try {
+    const { fen } = req.body;
+    if (!fen) {
+      return res.status(400).json({ error: 'Missing FEN parameter' });
+    }
+    const analysis = await aiService.analyzePosition(fen);
+    res.json(analysis);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
 
-// export default router;
+// Get best move
+router.post('/ai/best-move', async (req, res) => {
+  try {
+    const { fen } = req.body;
+    if (!fen) {
+      return res.status(400).json({ error: 'Missing FEN parameter' });
+    }
+    const result = await aiService.getBestMove(fen);
+    res.json(result);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+export default router;
