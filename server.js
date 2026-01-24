@@ -21,6 +21,7 @@ import followRoutes from './routes/follow.js';
 import commentRoutes from './routes/comment.js';
 import puzzleRoutes from './routes/puzzleRoutes.js';
 import leaderboardRoutes from './routes/leaderboardRoutes.js';
+import broadcastRoutes from './routes/broadcastRoutes.js';
 const app = express();
 app.use(express.json());
 
@@ -80,6 +81,7 @@ app.use('/api', followRoutes);
 app.use('/api', commentRoutes);
 app.use('/api/puzzles', puzzleRoutes);
 app.use('/api/leaderboard', leaderboardRoutes);
+app.use('/api/broadcasts', broadcastRoutes);
 
 // Set port
 const PORT = process.env.PORT || 5001;
