@@ -6,7 +6,8 @@
 import axios from 'axios';
 
 // AI service URL (Python FastAPI service)
-const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://localhost:8000';
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://ai-chess-service-41f27f1e88e9.herokuapp.com';
+console.log('AI Service URL configured:', AI_SERVICE_URL);
 
 // Create axios instance
 const aiClient = axios.create({
@@ -22,7 +23,9 @@ const aiClient = axios.create({
  */
 async function healthCheck() {
   try {
+    console.log('Checking AI health at:', AI_SERVICE_URL);
     const response = await aiClient.get('/health');
+    console.log('AI health response:', response.data);
     return {
       status: 'ok',
       aiService: response.data,
@@ -30,10 +33,12 @@ async function healthCheck() {
     };
   } catch (error) {
     console.error('AI service health check failed:', error.message);
+    console.error('Error details:', error.code, error.response?.status);
     return {
       status: 'error',
       message: 'AI service unavailable',
       error: error.message,
+      url: AI_SERVICE_URL,
       timestamp: new Date().toISOString(),
     };
   }

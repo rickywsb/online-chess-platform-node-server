@@ -290,3 +290,19 @@
 {"error":"E11000 duplicate key error collection: test.users index: username_1 dup key: { username: \"sibowu\" }","level":"error","message":"Error registering new user","service":"user-service"}
 {"level":"error","message":"Error message","service":"user-service"}
 {"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"email":"wusibo2020@hotmail.com","level":"error","message":"Invalid credentials","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}
+{"level":"error","message":"Error message","service":"user-service"}

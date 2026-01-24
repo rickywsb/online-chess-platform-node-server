@@ -1,4 +1,7 @@
 import dotenv from 'dotenv';
+// Load env variables FIRST before anything else
+dotenv.config();
+
 import morgan from 'morgan';
 import logger from './logger.js';
 import mongoose from 'mongoose';
@@ -11,14 +14,15 @@ import { createWriteStream } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import courseRoutes from './routes/courseRoutes.js';
-import moduleRouter from './routes/moduleRoutes.js'; // 确保路径正确
-import profileRouter from './routes/profile.js'; // 确保路径正确
+import moduleRouter from './routes/moduleRoutes.js';
+import profileRouter from './routes/profile.js';
 import chessRoutes from './routes/chessRoutes.js';
-import followRoutes from './routes/follow.js'; // Adjust the path as necessary
-import commentRoutes from './routes/comment.js'; // 导入 comment 路由
+import followRoutes from './routes/follow.js';
+import commentRoutes from './routes/comment.js';
+import puzzleRoutes from './routes/puzzleRoutes.js';
+import leaderboardRoutes from './routes/leaderboardRoutes.js';
 const app = express();
 app.use(express.json());
-dotenv.config();
 
 // 记录一个 info 级别的日志
 logger.info('Hello world');
@@ -72,8 +76,10 @@ app.use('/api/modules', moduleRouter);
 app.use('/api', usersRouter);
 app.use('/api/profile', profileRouter);
 app.use('/api/chess', chessRoutes);
-app.use('/api', followRoutes); // Adjust the path as necessary
+app.use('/api', followRoutes);
 app.use('/api', commentRoutes);
+app.use('/api/puzzles', puzzleRoutes);
+app.use('/api/leaderboard', leaderboardRoutes);
 
 // Set port
 const PORT = process.env.PORT || 5001;

@@ -9,22 +9,43 @@ const userSchema = new Schema({
   bio: { type: String },
   profilePicture: { type: String },
   dateOfBirth: { type: Date },
-  phoneNumber: { type: String }, // 敏感信息，应当适当保护
+  phoneNumber: { type: String },
   purchasedCourses: [{ 
     type: Schema.Types.ObjectId, 
-    ref: 'Course' // 学生购买的课程
+    ref: 'Course'
   }],
   teachingCourses: [{ 
     type: Schema.Types.ObjectId, 
-    ref: 'Course' // 教师教授的课程
+    ref: 'Course'
   }],
-  registrationDate: { type: Date, default: Date.now }, // Add this field
-  chessModel: { type: String },  // 用户个性化的 AI 模型路径或ID
+  registrationDate: { type: Date, default: Date.now },
+  chessModel: { type: String },
   gameHistory: [{ 
     type: Schema.Types.ObjectId, 
-    ref: 'Game'  // 用户的对局历史
-  }]
-
+    ref: 'Game'
+  }],
+  
+  // Chess Rating System
+  ratings: {
+    puzzle: {
+      rating: { type: Number, default: 1200 },
+      rd: { type: Number, default: 350 },  // Rating Deviation (Glicko-2)
+      solved: { type: Number, default: 0 },
+      failed: { type: Number, default: 0 },
+      streak: { type: Number, default: 0 },
+      bestStreak: { type: Number, default: 0 },
+      lastPlayed: { type: Date }
+    },
+    battle: {
+      rating: { type: Number, default: 1200 },
+      rd: { type: Number, default: 350 },
+      games: { type: Number, default: 0 },
+      wins: { type: Number, default: 0 },
+      losses: { type: Number, default: 0 },
+      draws: { type: Number, default: 0 },
+      lastPlayed: { type: Date }
+    }
+  }
 });
 
 const User = mongoose.model('User', userSchema);
